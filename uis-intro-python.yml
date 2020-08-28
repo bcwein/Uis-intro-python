@@ -1,0 +1,7 @@
+name: uis-intro-python
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - jupyterlab
