@@ -5,4 +5,5 @@ dependencies:
   - numpy
   - pandas
   - jupyterlab
-  - ipykernel
+  - matplotlib
+prefix: C:\Apps\Anaconda3\envs\uis-intro-python
