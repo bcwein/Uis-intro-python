@@ -6,4 +6,4 @@ dependencies:
   - pandas
   - jupyterlab
   - matplotlib
-prefix: C:\Apps\Anaconda3\envs\uis-intro-python
+  - line_profiler
