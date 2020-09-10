@@ -9,3 +9,4 @@ dependencies:
   - line_profiler
   - pylint
   - pydocstyle
+  - pandas-datareader
