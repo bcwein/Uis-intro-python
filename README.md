@@ -11,6 +11,12 @@ As of 28.08.2020 the repository contains the following folders:
 
 **Feel free to use this repository as you see fit.**
 
+## Datasets
+
+The datasets subfolder in the notebooks folder is too large to be commited in this repository.
+The datasets must be manually downloaded and added to the Notebooks folder. The datasets can be found
+here: https://github.com/wesm/pydata-book
+
 ## Anaconda environments
 
 There are currently two environment files in this repository.
