@@ -10,3 +10,8 @@ dependencies:
   - pylint
   - pydocstyle
   - pandas-datareader
+  - html5lib
+  - beautifulsoup4
+  - pytables
+  - xlrd
+  - openpyxl
