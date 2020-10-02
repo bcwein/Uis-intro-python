@@ -15,3 +15,5 @@ dependencies:
   - pytables
   - xlrd
   - openpyxl
+  - ipykernel
+  - seaborn
