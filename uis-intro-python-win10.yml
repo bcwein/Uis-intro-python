@@ -67,8 +67,8 @@ dependencies:
   - m2w64-gmp=6.1.0=2
   - m2w64-libwinpthread-git=5.0.0.4634.697f757=2
   - markupsafe=1.1.1=py38he774522_0
-  - matplotlib=3.3.1=0
-  - matplotlib-base=3.3.1=py38hba9282a_0
+  - matplotlib=3.3.2=0
+  - matplotlib-base=3.3.2=py38hba9282a_0
   - mccabe=0.6.1=py38_1
   - mistune=0.8.4=py38he774522_1000
   - mkl=2020.2=256
@@ -99,6 +99,7 @@ dependencies:
   - pip=20.2.4=py38_0
   - prometheus_client=0.8.0=py_0
   - prompt-toolkit=3.0.8=py_0
+  - pycodestyle=2.6.0=py_0
   - pycparser=2.20=py_2
   - pydocstyle=5.1.1=py_0
   - pygments=2.7.1=py_0
@@ -132,7 +133,7 @@ dependencies:
   - toml=0.10.1=py_0
   - tornado=6.0.4=py38he774522_1
   - traitlets=5.0.5=py_0
-  - urllib3=1.25.10=py_0
+  - urllib3=1.25.11=py_0
   - vc=14.1=h0510ff6_4
   - vs2015_runtime=14.16.27012=hf0eaf9b_3
   - wcwidth=0.2.5=py_0
@@ -145,6 +146,6 @@ dependencies:
   - xlrd=1.2.0=py_0
   - xz=5.2.5=h62dcd97_0
   - zeromq=4.3.2=ha925a31_3
-  - zipp=3.3.0=py_0
+  - zipp=3.3.1=py_0
   - zlib=1.2.11=h62dcd97_4
   - zstd=1.4.5=h04227a9_0
