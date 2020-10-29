@@ -15,7 +15,7 @@ dependencies:
   - brotlipy=0.7.0=py38he774522_1000
   - bzip2=1.0.8=he774522_0
   - ca-certificates=2020.10.14=0
-  - certifi=2020.6.20=py38_0
+  - certifi=2020.6.20=py38haa95532_2
   - cffi=1.14.3=py38h7a1dbc1_0
   - chardet=3.0.4=py38_1003
   - colorama=0.4.4=py_0
@@ -83,8 +83,8 @@ dependencies:
   - nest-asyncio=1.4.1=py_0
   - notebook=6.1.4=py38_0
   - numexpr=2.7.1=py38h25d0782_0
-  - numpy=1.19.1=py38h5510c5b_0
-  - numpy-base=1.19.1=py38ha3acd2a_0
+  - numpy=1.19.2=py38hadc3359_0
+  - numpy-base=1.19.2=py38ha3acd2a_0
   - olefile=0.46=py_0
   - openpyxl=3.0.5=py_0
   - openssl=1.1.1h=he774522_0
@@ -95,7 +95,7 @@ dependencies:
   - pandocfilters=1.4.2=py38_1
   - parso=0.7.0=py_0
   - pickleshare=0.7.5=py38_1000
-  - pillow=8.0.0=py38hca74424_0
+  - pillow=8.0.1=py38h4fa10fc_0
   - pip=20.2.4=py38_0
   - prometheus_client=0.8.0=py_0
   - prompt-toolkit=3.0.8=py_0
