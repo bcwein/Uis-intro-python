@@ -6,8 +6,11 @@ This repository contains my code for DAT540 - Introduction to data science.
 
 As of 28.08.2020 the repository contains the following folders:
 
-* Notebooks - Jupyter notebooks
-* Root folder - Anaconda environment, README etc
+* Notebooks - Jupyter notebooks.
+* Python_data_science_handbook - Notes in form of a jupyter notebook on the book [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake Vanderplas. 
+* Python_for_data_analysis - Notes in form of a jupyter notebook on the the book [Python for Data Analysis, 2nd Edition](https://github.com/wesm/pydata-book) by Wes McKinney.
+* Assignments - Solved assignments from the course.
+* Root folder - Anaconda environment, README etc.
 
 **Feel free to use this repository as you see fit.**
 
