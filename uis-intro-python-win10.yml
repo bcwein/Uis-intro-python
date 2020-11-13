@@ -37,6 +37,7 @@ dependencies:
   - ipykernel=5.3.4=py38h5ca1d4c_0
   - ipython=7.19.0=py38hd4e2768_0
   - ipython_genutils=0.2.0=py38_0
+  - ipywidgets=7.5.1=py_1
   - isort=5.6.4=py_0
   - jdcal=1.4.1=py_0
   - jedi=0.17.2=py38_0
@@ -142,6 +143,7 @@ dependencies:
   - wcwidth=0.2.5=py_0
   - webencodings=0.5.1=py38_1
   - wheel=0.35.1=py_0
+  - widgetsnbextension=3.5.1=py38_0
   - win_inet_pton=1.1.0=py38_0
   - wincertstore=0.2=py38_0
   - winpty=0.4.3=4
@@ -152,3 +154,4 @@ dependencies:
   - zipp=3.4.0=pyhd3eb1b0_0
   - zlib=1.2.11=h62dcd97_4
   - zstd=1.4.5=h04227a9_0
+prefix: C:\Apps\Anaconda3\envs\uis-intro-python

@@ -19,3 +19,4 @@ dependencies:
   - seaborn
   - pycodestyle
   - scikit-learn
+  - ipywidgets
